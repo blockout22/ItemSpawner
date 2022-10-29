@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.20",
+	"SemVersion": "1.0.21",
 	"VersionName": "1.0",
 	"FriendlyName": "ItemSpawner",
 	"Description": "Spawn Items Via UI",
@@ -19,7 +19,7 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.2.0",
+			"SemVersion": "^3.3.2",
 			"bIsOptional": false
 		}
 	]
