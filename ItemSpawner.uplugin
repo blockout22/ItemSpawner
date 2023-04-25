@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.23",
+	"SemVersion": "1.0.24",
 	"VersionName": "1.0",
 	"FriendlyName": "ItemSpawner",
 	"Description": "Spawn Items Via UI",
