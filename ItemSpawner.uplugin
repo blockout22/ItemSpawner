@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"SemVersion": "1.0.24",
+	"SemVersion": "1.0.25",
 	"VersionName": "1.0",
 	"FriendlyName": "ItemSpawner",
 	"Description": "Spawn Items Via UI",
-	"Category": "Other",
+	"Category": "Modding",
 	"CreatedBy": "Blockout22",
 	"CreatedByURL": "",
 	"DocsURL": "",
@@ -19,7 +19,7 @@
 		{
 			"Enabled": true,
 			"Name": "SML",
-			"SemVersion": "^3.3.2",
+			"SemVersion": "^3.5.0",
 			"bIsOptional": false
 		}
 	]
